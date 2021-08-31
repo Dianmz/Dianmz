@@ -1,8 +1,8 @@
-### Hi there I'm Diana👋 :woman_technologist:
+## Hi there I'm Diana👋 :woman_technologist:
 - :memo: I'm currently stuying Science and Systems Egnineer at 
 - :bamboo: Currently learning about Cloud Technologies, IA, and Data Analysis
 
-## Contact me!
+### Contact me!
 - [Twitter] (https://twitter.com/Dianmz__)
 - [Linkedin] (https://www.linkedin.com/in/dianita-menendez-16b041217/)
 <!--
