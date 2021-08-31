@@ -1,5 +1,4 @@
 ### Hi there I'm Diana👋 :woman_technologist:
-=
 - :memo: I'm currently stuying Science and Systems Egnineer at 
 - :bamboo: Currently learning about Cloud Technologies, IA, and Data Analysis
 
