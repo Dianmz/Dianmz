@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Diana👋
+:memo: I'm currently stuying Science and Systems Egnineer at San Carlos University of Guatemala
+:bamboo: Currently learning about Cloud Technologies, IA, and Data Analysis
 
 <!--
 **Dianmz/Dianmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
