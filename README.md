@@ -3,8 +3,8 @@
 - :bamboo: Currently learning about Cloud Technologies, IA, and Data Analysis
 
 ### Contact me!
-- [Twitter] (https://twitter.com/Dianmz__)
-- [Linkedin] (https://www.linkedin.com/in/dianita-menendez-16b041217/)
+- [Twitter](https://twitter.com/Dianmz__)
+- [Linkedin](https://www.linkedin.com/in/dianita-menendez-16b041217/)
 <!--
 **Dianmz/Dianmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
