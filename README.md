@@ -1,6 +1,7 @@
 ## Hi there I'm Diana👋 :woman_technologist:
-- :memo: I'm currently stuying Science and Systems Egnineer at San Carlos University of Guatemala
-- :bamboo: Currently learning about Cloud Technologies, IA, and Data Analysis
+- :memo: System's Engineer graduated from San Carlos University of Guatemala 
+- :bamboo: Currently becoming a DevOps developer
+- :cloud: Now! Cloud Native Organizer from the country I love Guatemala :guatemala:
 
 ### Contact me!
 - [Twitter](https://twitter.com/Dianmz__)
