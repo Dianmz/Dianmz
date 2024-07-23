@@ -24,6 +24,10 @@
 ![Static Badge](https://img.shields.io/badge/RabbitMQ-black?logo=rabbitmq)
 ![Static Badge](https://img.shields.io/badge/Terraform-black?logo=terraform)
 
+<!--*Analytics*-->
+[![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dianmz&count_private=true&show_icons=true&theme=radical)](https://github.com/Dianmz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianmz&langs_count=10)](https://github.com/Dianmz/github-readme-stats)
+
 <!--
 **Dianmz/Dianmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Github Analytics
 
