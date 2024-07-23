@@ -13,7 +13,7 @@
 - :guatemala: Guatemala's Cloud Native Organizer 
 - :cloud: Currently venturing into the Cloud Technologies
 - :books: Always looking to continue learning
-- :leaf: Currently contribuing to CNCF Tag Env Sustainability
+- :leaves: Currently contribuing to CNCF Tag Env Sustainability
 
 ![Static Badge](https://img.shields.io/badge/Github-black?logo=github)
 ![Static Badge](https://img.shields.io/badge/Gitlab-black?logo=gitlab)
@@ -25,9 +25,9 @@
 ![Static Badge](https://img.shields.io/badge/Terraform-black?logo=terraform)
 
 <!--*Analytics*-->
-- [![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dianmz&count_private=true&show_icons=true&theme=radical)](https://github.com/Dianmz/github-readme-stats)
+[![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dianmz&count_private=true&show_icons=true&theme=radical)](https://github.com/Dianmz/github-readme-stats)
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianmz&langs_count=10)](https://github.com/Dianmz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianmz&langs_count=10)](https://github.com/Dianmz/github-readme-stats)
 
 <!--
 **Dianmz/Dianmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Github Analytics
